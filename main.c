@@ -2,6 +2,8 @@
 //Ad Soyad   : Neslihan Gürel
 //Öğrenci No: 2320171034
 //Sertifika : https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=MAZUEJxaVj
+
+
 //Ders      : Veri Yapıları Ve Algoritmalar
 //Konu      : Baloncuk Sıralama ve İkili Arama
 
