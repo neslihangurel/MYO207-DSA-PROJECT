@@ -1,10 +1,9 @@
 #include <stdio.h>
-
 //Ad Soyad   : Neslihan Gürel
 //Öğrenci No: 2320171034
+//Sertifika : https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=MAZUEJxaVj
 //Ders      : Veri Yapıları Ve Algoritmalar
 //Konu      : Baloncuk Sıralama ve İkili Arama
-//Sertifika : https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=MAZUEJxaVj
 
 void dizi_yazdir(float dizi[], int bas_ind, int son_ind) {
     int i;
